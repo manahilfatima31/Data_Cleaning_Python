@@ -3,6 +3,6 @@ We took data from Kaggle regarding 5-minutes crafts and applied basics of Python
 We were concerned with the duration and views of a certain video uploaded by 5 minutes craft.
 
 # In Project
-> Data Cleaning
-> Graph Plotting
+> Data Cleaning,
+> Graph Plotting,
 > K-means
